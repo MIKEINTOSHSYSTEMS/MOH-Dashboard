@@ -1,0 +1,248 @@
+Region,Year,Indicator Name,Indicator Value,Source,Indicator Group
+Tigray,2000,Demand for family planning satisfied with modern methods (),26.7,EDHS,Global PHC
+Tigray,2005,Demand for family planning satisfied with modern methods (),40.9,EDHS,Global PHC
+Tigray,2011,Demand for family planning satisfied with modern methods (),48.00,EDHS,Global PHC
+Tigray,2016,Demand for family planning satisfied with modern methods (),64.80,EDHS,Global PHC
+Tigray,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Tigray,2009,TB treatment success rate (),91,HMIS,Global PHC
+Tigray,2010,TB treatment success rate (),88,HMIS,Global PHC
+Tigray,2011,TB treatment success rate (),94,HMIS,Global PHC
+Tigray,2012,TB treatment success rate (),94,HMIS,Global PHC
+Tigray,2013,TB treatment success rate (),0,HMIS,Global PHC
+Tigray,2000,DPT Dropout rate (),27,EDHS,Global PHC
+Tigray,2005,DPT Dropout rate (),37,EDHS,Global PHC
+Tigray,2011,DPT Dropout rate (),22,EDHS,Global PHC
+Tigray,2016,DPT Dropout rate (),17,EDHS,Global PHC
+Tigray,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Tigray,2018,Proportion of 3 primary infectious disease services provided ,97,SARA,Global PHC
+Tigray,2019,Proportion of 3 primary infectious disease services provided ,83,SARA,Global PHC
+Tigray,2020,Proportion of 3 primary infectious disease services provided ,72,SARA,Global PHC
+Tigray,2014,Provider absence rate,28,SPA +,Global PHC
+Afar,2000,Demand for family planning satisfied with modern methods (),38.6,EDHS,Global PHC
+Afar,2005,Demand for family planning satisfied with modern methods (),33.0,EDHS,Global PHC
+Afar,2011,Demand for family planning satisfied with modern methods (),35.50,EDHS,Global PHC
+Afar,2016,Demand for family planning satisfied with modern methods (),40.30,EDHS,Global PHC
+Afar,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Afar,2009,TB treatment success rate (),74,HMIS,Global PHC
+Afar,2010,TB treatment success rate (),74,HMIS,Global PHC
+Afar,2011,TB treatment success rate (),89,HMIS,Global PHC
+Afar,2012,TB treatment success rate (),87,HMIS,Global PHC
+Afar,2013,TB treatment success rate (),87,HMIS,Global PHC
+Afar,2000,DPT Dropout rate (),86,EDHS,Global PHC
+Afar,2005,DPT Dropout rate (),60,EDHS,Global PHC
+Afar,2011,DPT Dropout rate (),59,EDHS,Global PHC
+Afar,2016,DPT Dropout rate (),57,EDHS,Global PHC
+Afar,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Afar,2018,Proportion of 3 primary infectious disease services provided ,96,SARA,Global PHC
+Afar,2019,Proportion of 3 primary infectious disease services provided ,55,SARA,Global PHC
+Afar,2020,Proportion of 3 primary infectious disease services provided ,42,SARA,Global PHC
+Afar,2014,Provider absence rate,40,SPA +,Global PHC
+Amhara ,2000,Demand for family planning satisfied with modern methods (),15.5,EDHS,Global PHC
+Amhara ,2005,Demand for family planning satisfied with modern methods (),35.4,EDHS,Global PHC
+Amhara ,2011,Demand for family planning satisfied with modern methods (),58.90,EDHS,Global PHC
+Amhara ,2016,Demand for family planning satisfied with modern methods (),72.40,EDHS,Global PHC
+Amhara ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Amhara ,2009,TB treatment success rate (),95,HMIS,Global PHC
+Amhara ,2010,TB treatment success rate (),94,HMIS,Global PHC
+Amhara ,2011,TB treatment success rate (),95,HMIS,Global PHC
+Amhara ,2012,TB treatment success rate (),95,HMIS,Global PHC
+Amhara ,2013,TB treatment success rate (),96,HMIS,Global PHC
+Amhara ,2000,DPT Dropout rate (),41,EDHS,Global PHC
+Amhara ,2005,DPT Dropout rate (),49,EDHS,Global PHC
+Amhara ,2011,DPT Dropout rate (),44,EDHS,Global PHC
+Amhara ,2016,DPT Dropout rate (),31,EDHS,Global PHC
+Amhara ,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Amhara ,2018,Proportion of 3 primary infectious disease services provided,62,SARA,Global PHC
+Amhara ,2019,Proportion of 3 primary infectious disease services provided,56,SARA,Global PHC
+Amhara ,2020,Proportion of 3 primary infectious disease services provided,25,SARA,Global PHC
+Amhara ,2014,Provider absence rate,23,SPA +,Global PHC
+Oromia,2000,Demand for family planning satisfied with modern methods (),15.4,EDHS,Global PHC
+Oromia,2005,Demand for family planning satisfied with modern methods (),25.0,EDHS,Global PHC
+Oromia,2011,Demand for family planning satisfied with modern methods (),44.40,EDHS,Global PHC
+Oromia,2016,Demand for family planning satisfied with modern methods (),48.90,EDHS,Global PHC
+Oromia,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Oromia,2009,TB treatment success rate (),96,HMIS,Global PHC
+Oromia,2010,TB treatment success rate (),95,HMIS,Global PHC
+Oromia,2011,TB treatment success rate (),95,HMIS,Global PHC
+Oromia,2012,TB treatment success rate (),96,HMIS,Global PHC
+Oromia,2013,TB treatment success rate (),97,HMIS,Global PHC
+Oromia,2000,DPT Dropout rate (),56,EDHS,Global PHC
+Oromia,2005,DPT Dropout rate (),49,EDHS,Global PHC
+Oromia,2011,DPT Dropout rate (),49,EDHS,Global PHC
+Oromia,2016,DPT Dropout rate (),46,EDHS,Global PHC
+Oromia,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Oromia,2018,Proportion of 3 primary infectious disease services provided ,67,SARA,Global PHC
+Oromia,2019,Proportion of 3 primary infectious disease services provided ,58,SARA,Global PHC
+Oromia,2020,Proportion of 3 primary infectious disease services provided ,24,SARA,Global PHC
+Oromia,2014,Provider absence rate,37,SPA +,Global PHC
+Somalia ,2000,Demand for family planning satisfied with modern methods (),15.3,EDHS,Global PHC
+Somalia ,2005,Demand for family planning satisfied with modern methods (),21.3,EDHS,Global PHC
+Somalia ,2011,Demand for family planning satisfied with modern methods (),13.50,EDHS,Global PHC
+Somalia ,2016,Demand for family planning satisfied with modern methods (),9.60,EDHS,Global PHC
+Somalia ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Somalia ,2009,TB treatment success rate (),82,HMIS,Global PHC
+Somalia ,2010,TB treatment success rate (),73,HMIS,Global PHC
+Somalia ,2011,TB treatment success rate (),95,HMIS,Global PHC
+Somalia ,2012,TB treatment success rate (),95,HMIS,Global PHC
+Somalia ,2013,TB treatment success rate (),92,HMIS,Global PHC
+Somalia ,2000,DPT Dropout rate (),53,EDHS,Global PHC
+Somalia ,2005,DPT Dropout rate (),64,EDHS,Global PHC
+Somalia ,2011,DPT Dropout rate (),50,EDHS,Global PHC
+Somalia ,2016,DPT Dropout rate (),49,EDHS,Global PHC
+Somalia ,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Somalia ,2018,Proportion of 3 primary infectious disease services provided ,99,SARA,Global PHC
+Somalia ,2019,Proportion of 3 primary infectious disease services provided ,71,SARA,Global PHC
+Somalia ,2020,Proportion of 3 primary infectious disease services provided ,14,SARA,Global PHC
+Somalia ,2014,Provider absence rate,23,SPA +,Global PHC
+Benshangul Gumuz,2000,Demand for family planning satisfied with modern methods (),21.5,EDHS,Global PHC
+Benshangul Gumuz,2005,Demand for family planning satisfied with modern methods (),27.7,EDHS,Global PHC
+Benshangul Gumuz,2011,Demand for family planning satisfied with modern methods (),51.10,EDHS,Global PHC
+Benshangul Gumuz,2016,Demand for family planning satisfied with modern methods (),57.20,EDHS,Global PHC
+Benshangul Gumuz,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Benshangul Gumuz,2009,TB treatment success rate (),92,HMIS,Global PHC
+Benshangul Gumuz,2010,TB treatment success rate (),89,HMIS,Global PHC
+Benshangul Gumuz,2011,TB treatment success rate (),93,HMIS,Global PHC
+Benshangul Gumuz,2012,TB treatment success rate (),91,HMIS,Global PHC
+Benshangul Gumuz,2013,TB treatment success rate (),92,HMIS,Global PHC
+Benshangul Gumuz,2000,DPT Dropout rate (),58,EDHS,Global PHC
+Benshangul Gumuz,2005,DPT Dropout rate (),46,EDHS,Global PHC
+Benshangul Gumuz,2011,DPT Dropout rate (),45,EDHS,Global PHC
+Benshangul Gumuz,2016,DPT Dropout rate (),14,EDHS,Global PHC
+Benshangul Gumuz,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Benshangul Gumuz,2018,Proportion of 3 primary infectious disease services provided ,81,SARA,Global PHC
+Benshangul Gumuz,2019,Proportion of 3 primary infectious disease services provided ,44,SARA,Global PHC
+Benshangul Gumuz,2020,Proportion of 3 primary infectious disease services provided ,14,SARA,Global PHC
+Benshangul Gumuz,2014,Provider absence rate,34,SPA +,Global PHC
+SNNPR,2000,Demand for family planning satisfied with modern methods (),15.2,EDHS,Global PHC
+SNNPR,2005,Demand for family planning satisfied with modern methods (),24.6,EDHS,Global PHC
+SNNPR,2011,Demand for family planning satisfied with modern methods (),48.60,EDHS,Global PHC
+SNNPR,2016,Demand for family planning satisfied with modern methods (),65.30,EDHS,Global PHC
+SNNPR,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+SNNPR,2009,TB treatment success rate (),94,HMIS,Global PHC
+SNNPR,2010,TB treatment success rate (),94,HMIS,Global PHC
+SNNPR,2011,TB treatment success rate (),95,HMIS,Global PHC
+SNNPR,2012,TB treatment success rate (),95,HMIS,Global PHC
+SNNPR,2013,TB treatment success rate (),93,HMIS,Global PHC
+SNNPR,2000,DPT Dropout rate (),56,EDHS,Global PHC
+SNNPR,2005,DPT Dropout rate (),48,EDHS,Global PHC
+SNNPR,2011,DPT Dropout rate (),50,EDHS,Global PHC
+SNNPR,2016,DPT Dropout rate (),30,EDHS,Global PHC
+SNNPR,2019,DPT Dropout rate (),0,EDHS,Global PHC
+SNNPR,2018,Proportion of 3 primary infectious disease services provided ,83,SARA,Global PHC
+SNNPR,2019,Proportion of 3 primary infectious disease services provided ,54,SARA,Global PHC
+SNNPR,2020,Proportion of 3 primary infectious disease services provided ,27,SARA,Global PHC
+SNNPR,2014,Provider absence rate,42,SPA +,Global PHC
+Gambella ,2000,Demand for family planning satisfied with modern methods (),28.2,EDHS,Global PHC
+Gambella ,2005,Demand for family planning satisfied with modern methods (),40.7,EDHS,Global PHC
+Gambella ,2011,Demand for family planning satisfied with modern methods (),63.10,EDHS,Global PHC
+Gambella ,2016,Demand for family planning satisfied with modern methods (),60.30,EDHS,Global PHC
+Gambella ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Gambella ,2009,TB treatment success rate (),78,HMIS,Global PHC
+Gambella ,2010,TB treatment success rate (),70,HMIS,Global PHC
+Gambella ,2011,TB treatment success rate (),88,HMIS,Global PHC
+Gambella ,2012,TB treatment success rate (),89,HMIS,Global PHC
+Gambella ,2013,TB treatment success rate (),78,HMIS,Global PHC
+Gambella ,2000,DPT Dropout rate (),61,EDHS,Global PHC
+Gambella ,2005,DPT Dropout rate (),50,EDHS,Global PHC
+Gambella ,2011,DPT Dropout rate (),62,EDHS,Global PHC
+Gambella ,2016,DPT Dropout rate (),26,EDHS,Global PHC
+Gambella ,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Gambella ,2018,Proportion of 3 primary infectious disease services provided ,100,SARA,Global PHC
+Gambella ,2019,Proportion of 3 primary infectious disease services provided ,34,SARA,Global PHC
+Gambella ,2020,Proportion of 3 primary infectious disease services provided ,19,SARA,Global PHC
+Gambella ,2014,Provider absence rate,28,SPA +,Global PHC
+Harari ,2000,Demand for family planning satisfied with modern methods (),42.2,EDHS,Global PHC
+Harari ,2005,Demand for family planning satisfied with modern methods (),60.2,EDHS,Global PHC
+Harari ,2011,Demand for family planning satisfied with modern methods (),53.50,EDHS,Global PHC
+Harari ,2016,Demand for family planning satisfied with modern methods (),57.70,EDHS,Global PHC
+Harari ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Harari ,2009,TB treatment success rate (),97,HMIS,Global PHC
+Harari ,2010,TB treatment success rate (),95,HMIS,Global PHC
+Harari ,2011,TB treatment success rate (),97,HMIS,Global PHC
+Harari ,2012,TB treatment success rate (),99,HMIS,Global PHC
+Harari ,2013,TB treatment success rate (),99,HMIS,Global PHC
+Harari ,2000,DPT Dropout rate (),34,EDHS,Global PHC
+Harari ,2005,DPT Dropout rate (),34,EDHS,Global PHC
+Harari ,2011,DPT Dropout rate (),33,EDHS,Global PHC
+Harari ,2016,DPT Dropout rate (),32,EDHS,Global PHC
+Harari ,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Harari ,2018,Proportion of 3 primary infectious disease services provided ,61,SARA,Global PHC
+Harari ,2019,Proportion of 3 primary infectious disease services provided ,82,SARA,Global PHC
+Harari ,2020,Proportion of 3 primary infectious disease services provided ,25,SARA,Global PHC
+Harari ,2014,Provider absence rate,35,SPA +,Global PHC
+Addis Ababa ,2000,Demand for family planning satisfied with modern methods (),70.2,EDHS,Global PHC
+Addis Ababa ,2005,Demand for family planning satisfied with modern methods (),84.8,EDHS,Global PHC
+Addis Ababa ,2011,Demand for family planning satisfied with modern methods (),77.10,EDHS,Global PHC
+Addis Ababa ,2016,Demand for family planning satisfied with modern methods (),75.40,EDHS,Global PHC
+Addis Ababa ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Addis Ababa ,2009,TB treatment success rate (),91,HMIS,Global PHC
+Addis Ababa ,2010,TB treatment success rate (),85,HMIS,Global PHC
+Addis Ababa ,2011,TB treatment success rate (),90,HMIS,Global PHC
+Addis Ababa ,2012,TB treatment success rate (),89,HMIS,Global PHC
+Addis Ababa ,2013,TB treatment success rate (),93,HMIS,Global PHC
+Addis Ababa ,2000,DPT Dropout rate (),15,EDHS,Global PHC
+Addis Ababa ,2005,DPT Dropout rate (),15,EDHS,Global PHC
+Addis Ababa ,2011,DPT Dropout rate (),9,EDHS,Global PHC
+Addis Ababa ,2016,DPT Dropout rate (),10,EDHS,Global PHC
+Addis Ababa ,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Addis Ababa ,2018,Proportion of 3 primary infectious disease services provided ,75,SARA,Global PHC
+Addis Ababa ,2019,Proportion of 3 primary infectious disease services provided ,43,SARA,Global PHC
+Addis Ababa ,2020,Proportion of 3 primary infectious disease services provided ,36,SARA,Global PHC
+Addis Ababa ,2014,Provider absence rate,13,SPA +,Global PHC
+Dire Dawa ,2000,Demand for family planning satisfied with modern methods (),53.7,EDHS,Global PHC
+Dire Dawa ,2005,Demand for family planning satisfied with modern methods (),69.8,EDHS,Global PHC
+Dire Dawa ,2011,Demand for family planning satisfied with modern methods (),57.40,EDHS,Global PHC
+Dire Dawa ,2016,Demand for family planning satisfied with modern methods (),58.60,EDHS,Global PHC
+Dire Dawa ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Dire Dawa ,2009,TB treatment success rate (),90,HMIS,Global PHC
+Dire Dawa ,2010,TB treatment success rate (),86,HMIS,Global PHC
+Dire Dawa ,2011,TB treatment success rate (),92,HMIS,Global PHC
+Dire Dawa ,2012,TB treatment success rate (),91,HMIS,Global PHC
+Dire Dawa ,2013,TB treatment success rate (),91,HMIS,Global PHC
+Dire Dawa ,2000,DPT Dropout rate (),32,EDHS,Global PHC
+Dire Dawa ,2005,DPT Dropout rate (),26,EDHS,Global PHC
+Dire Dawa ,2011,DPT Dropout rate (),22,EDHS,Global PHC
+Dire Dawa ,2016,DPT Dropout rate (),20,EDHS,Global PHC
+Dire Dawa ,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Dire Dawa ,2018,Proportion of 3 primary infectious disease services provided ,100,SARA,Global PHC
+Dire Dawa ,2019,Proportion of 3 primary infectious disease services provided ,62,SARA,Global PHC
+Dire Dawa ,2020,Proportion of 3 primary infectious disease services provided ,34,SARA,Global PHC
+Dire Dawa ,2014,Provider absence rate,35,SPA +,Global PHC
+Sidama,2000,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Sidama,2005,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Sidama,2011,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Sidama,2016,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Sidama,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+Sidama,2009,TB treatment success rate (),0,HMIS,Global PHC
+Sidama,2010,TB treatment success rate (),0,HMIS,Global PHC
+Sidama,2011,TB treatment success rate (),0,HMIS,Global PHC
+Sidama,2012,TB treatment success rate (),0,HMIS,Global PHC
+Sidama,2013,TB treatment success rate (),96,HMIS,Global PHC
+Sidama,2000,DPT Dropout rate (),0,EDHS,Global PHC
+Sidama,2005,DPT Dropout rate (),0,EDHS,Global PHC
+Sidama,2011,DPT Dropout rate (),0,EDHS,Global PHC
+Sidama,2016,DPT Dropout rate (),0,EDHS,Global PHC
+Sidama,2019,DPT Dropout rate (),0,EDHS,Global PHC
+Sidama,2018,Proportion of 3 primary infectious disease services provided ,0,SARA,Global PHC
+Sidama,2019,Proportion of 3 primary infectious disease services provided ,0,SARA,Global PHC
+Sidama,2020,Proportion of 3 primary infectious disease services provided ,0,SARA,Global PHC
+Sidama,2014,Provider absence rate,0,SPA +,Global PHC
+National ,2000,Demand for family planning satisfied with modern methods (),18.4,EDHS,Global PHC
+National ,2005,Demand for family planning satisfied with modern methods (),30.7,EDHS,Global PHC
+National ,2011,Demand for family planning satisfied with modern methods (),50.70,EDHS,Global PHC
+National ,2016,Demand for family planning satisfied with modern methods (),60.60,EDHS,Global PHC
+National ,2019,Demand for family planning satisfied with modern methods (),0,EDHS,Global PHC
+National ,2009,TB treatment success rate (),94,HMIS,Global PHC
+National ,2010,TB treatment success rate (),92,HMIS,Global PHC
+National ,2011,TB treatment success rate (),94,HMIS,Global PHC
+National ,2012,TB treatment success rate (),95,HMIS,Global PHC
+National ,2013,TB treatment success rate (),95,HMIS,Global PHC
+National ,2000,DPT Dropout rate (),55,EDHS,Global PHC
+National ,2005,DPT Dropout rate (),45,EDHS,Global PHC
+National ,2011,DPT Dropout rate (),43,EDHS,Global PHC
+National ,2016,DPT Dropout rate (),20,EDHS,Global PHC
+National ,2019,DPT Dropout rate (),15,EDHS,Global PHC
+National ,2018,Proportion of 3 primary infectious disease services provided ,74,SARA,Global PHC
+National ,2019,Proportion of 3 primary infectious disease services provided ,57,SARA,Global PHC
+National ,2020,Proportion of 3 primary infectious disease services provided ,29,SARA,Global PHC
+National ,2014,Provider absence rate,33,SPA +,Global PHC

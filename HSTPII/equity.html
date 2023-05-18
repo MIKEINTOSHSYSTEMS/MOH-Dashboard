@@ -1,0 +1,88 @@
+<html>
+    <p>Equity HSTP II</p>
+
+    <!-- EQUITY - Dashboard-->
+<!--comment-->
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<script type="text/javascript">
+
+        
+    function goToPage763(mySelect)
+    
+    {
+    
+    PageIndex2=mySelect.selectedIndex;
+    
+    {
+    
+    if
+    
+    (
+    
+    mySelect.options[PageIndex2].value != "none"
+    
+    )
+    
+    {
+    
+    //this is the key code in the JavaScript to open the new page in
+    
+    //the iframe:-
+    
+    frames['iframe2'].location.href = mySelect.options[PageIndex2].value;
+    
+    }
+    
+    }
+    
+    }
+    
+    //-->
+    
+    </script>
+    
+    <form name="form763">
+    
+    <p>
+    <br>
+    Please Use this filter to explore between Equity Indicators >>>
+    
+    <select name="select763" size="1" onchange="goToPage763(this.form.select763)">
+    
+    <option value="http://157.245.133.124:4000/public/dashboard/5a5be38f-bc45-4b4f-a9e2-e26eb2941724" selected="selected">
+    
+    Select Options to View Equity Dashboards
+    
+    </option>
+    
+    <option value="http://157.245.133.124:4000/public/dashboard/af66026c-65ba-4f06-9431-f7cacbb918f9">
+    
+    HSTP Monitoring Indicators
+    
+    </option>
+    
+    
+    <option value="http://157.245.133.124:4000/public/dashboard/5a5be38f-bc45-4b4f-a9e2-e26eb2941724#refresh=120&theme=night">
+    
+    All In One
+    
+    </option>
+    
+    </select>
+    
+    </p>
+    
+    <p>
+    
+    <!-- The code below is the code in the body of this document that writes the form-->
+    
+    <iframe name="iframe2" src="guides.html" align="top" height="100%" width="95%" hspace="10" vspace="10" align="middle">
+    
+    Dear user, If you can see this, your browser does not support iframes! Please use the recommended browser or upgrade your browser.
+    
+    </iframe>
+    
+    </p>
+    
+    </form>
+</html>

@@ -1,0 +1,144 @@
+<html>
+<body>
+<p style="text-align: center">
+</p>
+<!--<p align="center">
+	<button type="button">Equity</button> 
+
+	<button type="button">Finance</button> 
+	
+	<button type="button">Performance</button>
+
+</p>
+<br>-->
+<!--
+
+    <a href="php_content.html " target="B">
+	<p> <font color="white">Print</font> </p></a>
+
+	MY TEST VIEWS
+
+<a href="./HSTPII/equity.html" target="equity"> Equity</a>
+<br>
+<iframe name="equity" src="./HSTPII/equity.html"> </iframe>
+<br>
+<br>
+<a href="./HSTPII/finance.html" target="finance"> Finance</a>
+<br>
+<iframe name="finance" src="./HSTPII/finance.html"> </iframe>
+<br>
+<br>
+<a href="./HSTPII/perfomance.html" target="performance"> Performance</a>
+<br>
+<iframe name="performance" src="./HSTPII/perfomance.html"> </iframe>
+
+-->
+
+<!-- EQUITY - Dashboard-->
+<!--meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"-->
+
+<script type="text/javascript">
+
+    
+    
+    function goToPage763(mySelect)
+    
+    {
+    
+    PageIndex2=mySelect.selectedIndex;
+    
+    {
+    
+    if
+    
+    (
+    
+    mySelect.options[PageIndex2].value != "none"
+    
+    )
+    
+    {
+    
+    //this is the key code in the JavaScript to open the new page in
+    
+    //the iframe:-
+    
+    frames['iframe2'].location.href = mySelect.options[PageIndex2].value;
+    
+    }
+    
+    }
+    
+    }
+    
+    //-->
+    
+    </script>
+    
+    <form name="form763">
+    
+    <p align="center">
+    
+    <select name="select763" size="1" onchange="goToPage763(this.form.select763)">
+    
+    <option value="none" selected="selected">
+    
+    Select HSTP II Indicators From Equity, Finance or Performance Dashboards
+    
+    </option>
+    
+    <option value="http://157.245.133.124:4000/public/dashboard/56461010-53e2-4e79-98e8-7554610a926c">
+    
+    EQUITY
+    
+    </option>
+	<option value="http://157.245.133.124:4000/public/dashboard/93bc3b18-5541-43e5-9a9d-f5060b55f710">
+    
+		Finance
+		
+		</option>
+		<option value="http://157.245.133.124:4000/public/dashboard/e983c3af-d5ad-4952-b82f-c50c0d14c244">
+    
+			Performance
+			
+			</option>
+            <option value="http://157.245.133.124:4000/public/dashboard/78a97919-fcdf-4082-bc1e-e28e442264cf">
+    
+                All In One HSTP II Dashboard
+                
+                </option>
+
+
+</select>
+
+    <p align="right"> <img src="imgs/printer.png" width="20" height="20"> <font color="Black"></font> <body>
+   
+        <button onclick="printFunction()">Print / Save</button>​
+     
+        <script>
+          function printFunction() { 
+            window.print(); 
+          }
+        </script>
+      ​</body></p>
+</p>
+
+<p>
+
+<!-- The code below is the code in the body of this document that writes the form-->
+
+<iframe name="iframe2" src="guide.html" align="top" height="100%" width="100%" hspace="10" vspace="10" align="middle">
+
+MIKEINTOSH, If you can see this, your browser does not support iframes!
+
+</iframe>
+
+</p>
+
+</form>
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,196 @@
+Region,Year,Indicator Name,Indicator Value,Source,Indicator Group
+Tigray,2009,Bed Occupancy Rate,44,HMIS,HSTP II indicator
+Tigray,2010,Bed Occupancy Rate,49,HMIS,HSTP II indicator
+Tigray,2011,Bed Occupancy Rate,47,HMIS,HSTP II indicator
+Tigray,2012,Bed Occupancy Rate,44,HMIS,HSTP II indicator
+Tigray,2013,Bed Occupancy Rate,0,HMIS,HSTP II indicator
+Tigray,2009,Outpatient attendance per capita,1.8,HMIS,HSTP II indicator
+Tigray,2010,Outpatient attendance per capita,2,HMIS,HSTP II indicator
+Tigray,2011,Outpatient attendance per capita,1.83,HMIS,HSTP II indicator
+Tigray,2012,Outpatient attendance per capita,2.07,HMIS,HSTP II indicator
+Tigray,2013,Outpatient attendance per capita,0,HMIS,HSTP II indicator
+Tigray,2000,Wasting prevalence in children aged less than 5 years (%),11.1,EDHS,HSTP II indicator
+Tigray,2005,Wasting prevalence in children aged less than 5 years (%),11.6,EDHS,HSTP II indicator
+Tigray,2011,Wasting prevalence in children aged less than 5 years (%),10.3,EDHS,HSTP II indicator
+Tigray,2016,Wasting prevalence in children aged less than 5 years (%),11.1,EDHS,HSTP II indicator
+Tigray,2019,Wasting prevalence in children aged less than 5 years (%),9.1,EDHS,HSTP II indicator
+Afar,2009,Bed Occupancy Rate,16,HMIS,HSTP II indicator
+Afar,2010,Bed Occupancy Rate,8,HMIS,HSTP II indicator
+Afar,2011,Bed Occupancy Rate,21,HMIS,HSTP II indicator
+Afar,2012,Bed Occupancy Rate,22,HMIS,HSTP II indicator
+Afar,2013,Bed Occupancy Rate,28.6,HMIS,HSTP II indicator
+Afar,2009,Outpatient attendance per capita,0.4,HMIS,HSTP II indicator
+Afar,2010,Outpatient attendance per capita,0.2,HMIS,HSTP II indicator
+Afar,2011,Outpatient attendance per capita,0.36,HMIS,HSTP II indicator
+Afar,2012,Outpatient attendance per capita,0.36,HMIS,HSTP II indicator
+Afar,2013,Outpatient attendance per capita,0.35,HMIS,HSTP II indicator
+Afar,2000,Wasting prevalence in children aged less than 5 years (%),12.6,EDHS,HSTP II indicator
+Afar,2005,Wasting prevalence in children aged less than 5 years (%),9.9,EDHS,HSTP II indicator
+Afar,2011,Wasting prevalence in children aged less than 5 years (%),19.5,EDHS,HSTP II indicator
+Afar,2016,Wasting prevalence in children aged less than 5 years (%),17.7,EDHS,HSTP II indicator
+Afar,2019,Wasting prevalence in children aged less than 5 years (%),13.5,EDHS,HSTP II indicator
+Amhara,2009,Bed Occupancy Rate,40,HMIS,HSTP II indicator
+Amhara,2010,Bed Occupancy Rate,25,HMIS,HSTP II indicator
+Amhara,2011,Bed Occupancy Rate,53,HMIS,HSTP II indicator
+Amhara,2012,Bed Occupancy Rate,48,HMIS,HSTP II indicator
+Amhara,2013,Bed Occupancy Rate,66.2,HMIS,HSTP II indicator
+Amhara,2009,Outpatient attendance per capita,1.1,HMIS,HSTP II indicator
+Amhara,2010,Outpatient attendance per capita,1.2,HMIS,HSTP II indicator
+Amhara,2011,Outpatient attendance per capita,1.17,HMIS,HSTP II indicator
+Amhara,2012,Outpatient attendance per capita,1.32,HMIS,HSTP II indicator
+Amhara,2013,Outpatient attendance per capita,1.49,HMIS,HSTP II indicator
+Amhara,2000,Wasting prevalence in children aged less than 5 years (%),9.5,EDHS,HSTP II indicator
+Amhara,2005,Wasting prevalence in children aged less than 5 years (%),14.2,EDHS,HSTP II indicator
+Amhara,2011,Wasting prevalence in children aged less than 5 years (%),9.9,EDHS,HSTP II indicator
+Amhara,2016,Wasting prevalence in children aged less than 5 years (%),9.8,EDHS,HSTP II indicator
+Amhara,2019,Wasting prevalence in children aged less than 5 years (%),7.6,EDHS,HSTP II indicator
+Oromia,2009,Bed Occupancy Rate,40,HMIS,HSTP II indicator
+Oromia,2010,Bed Occupancy Rate,18,HMIS,HSTP II indicator
+Oromia,2011,Bed Occupancy Rate,42,HMIS,HSTP II indicator
+Oromia,2012,Bed Occupancy Rate,39,HMIS,HSTP II indicator
+Oromia,2013,Bed Occupancy Rate,54.4,HMIS,HSTP II indicator
+Oromia,2009,Outpatient attendance per capita,0.5,HMIS,HSTP II indicator
+Oromia,2010,Outpatient attendance per capita,0.3,HMIS,HSTP II indicator
+Oromia,2011,Outpatient attendance per capita,0.62,HMIS,HSTP II indicator
+Oromia,2012,Outpatient attendance per capita,0.77,HMIS,HSTP II indicator
+Oromia,2013,Outpatient attendance per capita,0.93,HMIS,HSTP II indicator
+Oromia,2000,Wasting prevalence in children aged less than 5 years (%),10.4,EDHS,HSTP II indicator
+Oromia,2005,Wasting prevalence in children aged less than 5 years (%),9.6,EDHS,HSTP II indicator
+Oromia,2011,Wasting prevalence in children aged less than 5 years (%),9.7,EDHS,HSTP II indicator
+Oromia,2016,Wasting prevalence in children aged less than 5 years (%),10.6,EDHS,HSTP II indicator
+Oromia,2019,Wasting prevalence in children aged less than 5 years (%),4.3,EDHS,HSTP II indicator
+Somalia,2009,Bed Occupancy Rate,29,HMIS,HSTP II indicator
+Somalia,2010,Bed Occupancy Rate,8,HMIS,HSTP II indicator
+Somalia,2011,Bed Occupancy Rate,16,HMIS,HSTP II indicator
+Somalia,2012,Bed Occupancy Rate,16,HMIS,HSTP II indicator
+Somalia,2013,Bed Occupancy Rate,30.9,HMIS,HSTP II indicator
+Somalia,2009,Outpatient attendance per capita,0.2,HMIS,HSTP II indicator
+Somalia,2010,Outpatient attendance per capita,0.2,HMIS,HSTP II indicator
+Somalia,2011,Outpatient attendance per capita,0.21,HMIS,HSTP II indicator
+Somalia,2012,Outpatient attendance per capita,0.25,HMIS,HSTP II indicator
+Somalia,2013,Outpatient attendance per capita,0.25,HMIS,HSTP II indicator
+Somalia,2000,Wasting prevalence in children aged less than 5 years (%),15.8,EDHS,HSTP II indicator
+Somalia,2005,Wasting prevalence in children aged less than 5 years (%),23.7,EDHS,HSTP II indicator
+Somalia,2011,Wasting prevalence in children aged less than 5 years (%),22.2,EDHS,HSTP II indicator
+Somalia,2016,Wasting prevalence in children aged less than 5 years (%),22.7,EDHS,HSTP II indicator
+Somalia,2019,Wasting prevalence in children aged less than 5 years (%),21.4,EDHS,HSTP II indicator
+Benshangul Gumuz,2009,Bed Occupancy Rate,31,HMIS,HSTP II indicator
+Benshangul Gumuz,2010,Bed Occupancy Rate,12,HMIS,HSTP II indicator
+Benshangul Gumuz,2011,Bed Occupancy Rate,41,HMIS,HSTP II indicator
+Benshangul Gumuz,2012,Bed Occupancy Rate,31,HMIS,HSTP II indicator
+Benshangul Gumuz,2013,Bed Occupancy Rate,31.6,HMIS,HSTP II indicator
+Benshangul Gumuz,2009,Outpatient attendance per capita,0.8,HMIS,HSTP II indicator
+Benshangul Gumuz,2010,Outpatient attendance per capita,0.6,HMIS,HSTP II indicator
+Benshangul Gumuz,2011,Outpatient attendance per capita,0.74,HMIS,HSTP II indicator
+Benshangul Gumuz,2012,Outpatient attendance per capita,0.85,HMIS,HSTP II indicator
+Benshangul Gumuz,2013,Outpatient attendance per capita,1.41,HMIS,HSTP II indicator
+Benshangul Gumuz,2000,Wasting prevalence in children aged less than 5 years (%),14.2,EDHS,HSTP II indicator
+Benshangul Gumuz,2005,Wasting prevalence in children aged less than 5 years (%),16,EDHS,HSTP II indicator
+Benshangul Gumuz,2011,Wasting prevalence in children aged less than 5 years (%),9.9,EDHS,HSTP II indicator
+Benshangul Gumuz,2016,Wasting prevalence in children aged less than 5 years (%),11.5,EDHS,HSTP II indicator
+Benshangul Gumuz,2019,Wasting prevalence in children aged less than 5 years (%),6.4,EDHS,HSTP II indicator
+SNNPR,2009,Bed Occupancy Rate,35,HMIS,HSTP II indicator
+SNNPR,2010,Bed Occupancy Rate,16,HMIS,HSTP II indicator
+SNNPR,2011,Bed Occupancy Rate,38,HMIS,HSTP II indicator
+SNNPR,2012,Bed Occupancy Rate,36,HMIS,HSTP II indicator
+SNNPR,2013,Bed Occupancy Rate,47.1,HMIS,HSTP II indicator
+SNNPR,2009,Outpatient attendance per capita,0.6,HMIS,HSTP II indicator
+SNNPR,2010,Outpatient attendance per capita,0.4,HMIS,HSTP II indicator
+SNNPR,2011,Outpatient attendance per capita,0.96,HMIS,HSTP II indicator
+SNNPR,2012,Outpatient attendance per capita,1,HMIS,HSTP II indicator
+SNNPR,2013,Outpatient attendance per capita,1.17,HMIS,HSTP II indicator
+SNNPR,2000,Wasting prevalence in children aged less than 5 years (%),11.8,EDHS,HSTP II indicator
+SNNPR,2005,Wasting prevalence in children aged less than 5 years (%),6.5,EDHS,HSTP II indicator
+SNNPR,2011,Wasting prevalence in children aged less than 5 years (%),7.6,EDHS,HSTP II indicator
+SNNPR,2016,Wasting prevalence in children aged less than 5 years (%),6,EDHS,HSTP II indicator
+SNNPR,2019,Wasting prevalence in children aged less than 5 years (%),6.3,EDHS,HSTP II indicator
+Gambella,2009,Bed Occupancy Rate,29,HMIS,HSTP II indicator
+Gambella,2010,Bed Occupancy Rate,8,HMIS,HSTP II indicator
+Gambella,2011,Bed Occupancy Rate,25,HMIS,HSTP II indicator
+Gambella,2012,Bed Occupancy Rate,34,HMIS,HSTP II indicator
+Gambella,2013,Bed Occupancy Rate,32.9,HMIS,HSTP II indicator
+Gambella,2009,Outpatient attendance per capita,0.7,HMIS,HSTP II indicator
+Gambella,2010,Outpatient attendance per capita,0.5,HMIS,HSTP II indicator
+Gambella,2011,Outpatient attendance per capita,0.9,HMIS,HSTP II indicator
+Gambella,2012,Outpatient attendance per capita,0.67,HMIS,HSTP II indicator
+Gambella,2013,Outpatient attendance per capita,0.4,HMIS,HSTP II indicator
+Gambella,2000,Wasting prevalence in children aged less than 5 years (%),18.1,EDHS,HSTP II indicator
+Gambella,2005,Wasting prevalence in children aged less than 5 years (%),6.8,EDHS,HSTP II indicator
+Gambella,2011,Wasting prevalence in children aged less than 5 years (%),12.5,EDHS,HSTP II indicator
+Gambella,2016,Wasting prevalence in children aged less than 5 years (%),14.1,EDHS,HSTP II indicator
+Gambella,2019,Wasting prevalence in children aged less than 5 years (%),13.1,EDHS,HSTP II indicator
+Harari,2009,Bed Occupancy Rate,44,HMIS,HSTP II indicator
+Harari,2010,Bed Occupancy Rate,25,HMIS,HSTP II indicator
+Harari,2011,Bed Occupancy Rate,50,HMIS,HSTP II indicator
+Harari,2012,Bed Occupancy Rate,50,HMIS,HSTP II indicator
+Harari,2013,Bed Occupancy Rate,66.9,HMIS,HSTP II indicator
+Harari,2009,Outpatient attendance per capita,1.3,HMIS,HSTP II indicator
+Harari,2010,Outpatient attendance per capita,1.3,HMIS,HSTP II indicator
+Harari,2011,Outpatient attendance per capita,1.15,HMIS,HSTP II indicator
+Harari,2012,Outpatient attendance per capita,1.15,HMIS,HSTP II indicator
+Harari,2013,Outpatient attendance per capita,1.42,HMIS,HSTP II indicator
+Harari,2000,Wasting prevalence in children aged less than 5 years (%),6.3,EDHS,HSTP II indicator
+Harari,2005,Wasting prevalence in children aged less than 5 years (%),9.1,EDHS,HSTP II indicator
+Harari,2011,Wasting prevalence in children aged less than 5 years (%),9.1,EDHS,HSTP II indicator
+Harari,2016,Wasting prevalence in children aged less than 5 years (%),10.7,EDHS,HSTP II indicator
+Harari,2019,Wasting prevalence in children aged less than 5 years (%),4.1,EDHS,HSTP II indicator
+Dire Dawa,2009,Bed Occupancy Rate,37,HMIS,HSTP II indicator
+Dire Dawa,2010,Bed Occupancy Rate,17,HMIS,HSTP II indicator
+Dire Dawa,2011,Bed Occupancy Rate,20,HMIS,HSTP II indicator
+Dire Dawa,2012,Bed Occupancy Rate,17,HMIS,HSTP II indicator
+Dire Dawa,2013,Bed Occupancy Rate,61.9,HMIS,HSTP II indicator
+Dire Dawa,2009,Outpatient attendance per capita,1.7,HMIS,HSTP II indicator
+Dire Dawa,2010,Outpatient attendance per capita,0.9,HMIS,HSTP II indicator
+Dire Dawa,2011,Outpatient attendance per capita,1.75,HMIS,HSTP II indicator
+Dire Dawa,2012,Outpatient attendance per capita,1.44,HMIS,HSTP II indicator
+Dire Dawa,2013,Outpatient attendance per capita,1.79,HMIS,HSTP II indicator
+Dire Dawa,2000,Wasting prevalence in children aged less than 5 years (%),4.2,EDHS,HSTP II indicator
+Dire Dawa,2005,Wasting prevalence in children aged less than 5 years (%),1.7,EDHS,HSTP II indicator
+Dire Dawa,2011,Wasting prevalence in children aged less than 5 years (%),4.6,EDHS,HSTP II indicator
+Dire Dawa,2016,Wasting prevalence in children aged less than 5 years (%),3.5,EDHS,HSTP II indicator
+Dire Dawa,2019,Wasting prevalence in children aged less than 5 years (%),2.2,EDHS,HSTP II indicator
+Addis Ababa,2009,Bed Occupancy Rate,42,HMIS,HSTP II indicator
+Addis Ababa,2010,Bed Occupancy Rate,20,HMIS,HSTP II indicator
+Addis Ababa,2011,Bed Occupancy Rate,47,HMIS,HSTP II indicator
+Addis Ababa,2012,Bed Occupancy Rate,48,HMIS,HSTP II indicator
+Addis Ababa,2013,Bed Occupancy Rate,33,HMIS,HSTP II indicator
+Addis Ababa,2009,Outpatient attendance per capita,1.3,HMIS,HSTP II indicator
+Addis Ababa,2010,Outpatient attendance per capita,0.9,HMIS,HSTP II indicator
+Addis Ababa,2011,Outpatient attendance per capita,1.71,HMIS,HSTP II indicator
+Addis Ababa,2012,Outpatient attendance per capita,1.93,HMIS,HSTP II indicator
+Addis Ababa,2013,Outpatient attendance per capita,1.22,HMIS,HSTP II indicator
+Addis Ababa,2000,Wasting prevalence in children aged less than 5 years (%),11.1,EDHS,HSTP II indicator
+Addis Ababa,2005,Wasting prevalence in children aged less than 5 years (%),11.4,EDHS,HSTP II indicator
+Addis Ababa,2011,Wasting prevalence in children aged less than 5 years (%),12.3,EDHS,HSTP II indicator
+Addis Ababa,2016,Wasting prevalence in children aged less than 5 years (%),9.7,EDHS,HSTP II indicator
+Addis Ababa,2019,Wasting prevalence in children aged less than 5 years (%),5.9,EDHS,HSTP II indicator
+Sidama,2009,Bed Occupancy Rate,0,HMIS,HSTP II indicator
+Sidama,2010,Bed Occupancy Rate,0,HMIS,HSTP II indicator
+Sidama,2011,Bed Occupancy Rate,0,HMIS,HSTP II indicator
+Sidama,2012,Bed Occupancy Rate,0,HMIS,HSTP II indicator
+Sidama,2013,Bed Occupancy Rate,52.9,HMIS,HSTP II indicator
+Sidama,2009,Outpatient attendance per capita,0,HMIS,HSTP II indicator
+Sidama,2010,Outpatient attendance per capita,0,HMIS,HSTP II indicator
+Sidama,2011,Outpatient attendance per capita,0,HMIS,HSTP II indicator
+Sidama,2012,Outpatient attendance per capita,0,HMIS,HSTP II indicator
+Sidama,2013,Outpatient attendance per capita,0.95,HMIS,HSTP II indicator
+Sidama,2000,Wasting prevalence in children aged less than 5 years (%),0,EDHS,HSTP II indicator
+Sidama,2005,Wasting prevalence in children aged less than 5 years (%),0,EDHS,HSTP II indicator
+Sidama,2011,Wasting prevalence in children aged less than 5 years (%),0,EDHS,HSTP II indicator
+Sidama,2016,Wasting prevalence in children aged less than 5 years (%),0,EDHS,HSTP II indicator
+Sidama,2019,Wasting prevalence in children aged less than 5 years (%),0,EDHS,HSTP II indicator
+National,2009,Bed Occupancy Rate,38.3,HMIS,HSTP II indicator
+National,2010,Bed Occupancy Rate,17,HMIS,HSTP II indicator
+National,2011,Bed Occupancy Rate,42,HMIS,HSTP II indicator
+National,2012,Bed Occupancy Rate,40,HMIS,HSTP II indicator
+National,2013,Bed Occupancy Rate,55,HMIS,HSTP II indicator
+National,2009,Outpatient attendance per capita,0.8,HMIS,HSTP II indicator
+National,2010,Outpatient attendance per capita,0.6,HMIS,HSTP II indicator
+National,2011,Outpatient attendance per capita,0.9,HMIS,HSTP II indicator
+National,2012,Outpatient attendance per capita,1.02,HMIS,HSTP II indicator
+National,2013,Outpatient attendance per capita,1.09,HMIS,HSTP II indicator
+National,2000,Wasting prevalence in children aged less than 5 years (%),10.5,EDHS,HSTP II indicator
+National,2005,Wasting prevalence in children aged less than 5 years (%),10.5,EDHS,HSTP II indicator
+National,2011,Wasting prevalence in children aged less than 5 years (%),9.7,EDHS,HSTP II indicator
+National,2016,Wasting prevalence in children aged less than 5 years (%),9.9,EDHS,HSTP II indicator
+National,2019,Wasting prevalence in children aged less than 5 years (%),7,EDHS,HSTP II indicator
