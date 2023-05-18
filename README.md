@@ -18,7 +18,7 @@ To install or deploy please see the instructions as described below
 
 
 
-To preview the system please go to http://merqsys.duckdns.org:49156/
+To preview the system please go to http://phc.merqconsultancy.org/dashboard
 
 
 The Data Visualization system is developed for Ministry of Health Ethiopia https://moh.gov.et
